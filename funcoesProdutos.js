@@ -5,9 +5,9 @@ const produtos = [];
 
 const criarProduto = (produto) => {
 
-    const existeProduto = produtoExiste(produto)
+    const existeProduto = pegarProduto(produto.idProduto)
 
-    if (existeProduto) {
+    if (existeProduto != null) {
         return
     }
 

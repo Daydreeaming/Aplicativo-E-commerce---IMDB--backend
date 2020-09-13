@@ -173,3 +173,15 @@ const pegarPedido = (idPedido) => {
 const listarPedidos = () => {
     return pedidos
 };
+
+module.exports = {
+    pedidos: pedidos,
+    criarPedido: criarPedido,
+    adicionarProdutoNoPedido: adicionarProdutoNoPedido,
+    removerProdutoNoPedido: removerProdutoNoPedido,
+    atualizarQtdDosPedidos: atualizarQtdDosPedidos,
+    listarPedidosPorEstado: listarPedidosPorEstado,
+    modificarEstadoDoPedido: modificarEstadoDoPedido,
+    pegarPedido: pegarPedido,
+    listarPedidos: listarPedidos
+}
