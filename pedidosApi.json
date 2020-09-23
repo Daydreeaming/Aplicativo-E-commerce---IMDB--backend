@@ -1,0 +1,16 @@
+[
+    {
+        "idPedido": 6,
+        "produtos": [
+            {
+                "produto": "Feijão",
+                "qtd": 1,
+                "valorUnitario": 0.17
+            }
+        ],
+        "estado": "Incompleto",
+        "idClient": "3",
+        "deletado": false,
+        "valorTotal": 0.17
+    }
+]
