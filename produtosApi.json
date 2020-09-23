@@ -1,0 +1,47 @@
+[
+    {
+        "idProduto": 1,
+        "nome": "Arroz",
+        "qtdDisponivel": 16556151564,
+        "valorDoProduto": 0.15,
+        "descricao": "Arroz feito para cozinhar e comer",
+        "peso": 1,
+        "deletado": false
+    },
+    {
+        "idProduto": 2,
+        "nome": "Feijão",
+        "qtdDisponivel": 16556143062,
+        "valorDoProduto": 0.17,
+        "descricao": "Feijao para comer com o arroz",
+        "peso": 1,
+        "deletado": false
+    },
+    {
+        "idProduto": 3,
+        "nome": "Carne",
+        "qtdDisponivel": 16556151564,
+        "valorDoProduto": 17,
+        "descricao": "Carne para comer com o arroz e feijão",
+        "peso": 18,
+        "deletado": true
+    },
+    {
+        "idProduto": 4,
+        "nome": "Hamburguer",
+        "qtdDisponivel": 423466,
+        "valorDoProduto": 170,
+        "descricao": "Pao com carne de soja vegetariana",
+        "peso": 18,
+        "deletado": false
+    },
+    {
+        "idProduto": 5,
+        "nome": "Hamburguer",
+        "qtdDisponivel": 318741156132,
+        "valorDoProduto": 170,
+        "descricao": "Pao com carne de soja vegetariana",
+        "peso": 18,
+        "deletado": false
+    }
+]
